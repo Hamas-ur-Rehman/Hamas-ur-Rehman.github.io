@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'Hamas-ur-Rehman', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -10,84 +10,82 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
+        linkedin: 'hamasurrehman',
+        twitter: 'Hamas_ur_Rehman',
         facebook: '',
         dribbble: '',
         behance: '',
-        medium: '',
+        medium: 'hamasurrehman',
         devto: '',
-        website: 'https://arifszn.github.io',
+        website: 'https://hamas-ur-rehman.github.io/',
         phone: '',
-        email: 'contact@arifszn.com'
+        email: 'hamasurrehman@gmail.com'
     },
     skills: [
         'PHP',
-        'Laravel',
+        'Flutter',
         'JavaScript',
-        'React.js',
-        'Vue.js',
-        'Node.js',
+        'Dart',
+        'Python',
         'Jquery',
         'MySQL',
+        'HTML 5'
         'Git',
         'CSS',
-        'Antd',
-        'Tailwind',
         'Bootstrap',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Software Engineer',
-            from: 'September 2021',
+            company: 'National Financial Literacy Program For Youth',
+            position: 'Student Brand Ambassador',
+            from: 'August 2021',
             to: 'Present'
         },
         { 
-            company: 'Orangetoolz - My Offer 360 Degree',
-            position: 'Jr. Full Stack Engineer',
-            from: 'July 2019',
-            to: 'August 2021'
+            company: 'YouTube',
+            position: 'Content Creator',
+            from: 'April 2017',
+            to: 'Present'
         },
         { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
-            from: 'January 2019',
-            to: ' June 2019'
+            company: 'Comido App',
+            position: 'CTO',
+            from: 'January 2021',
+            to: ' July 2021'
         }
     ],
     education: [
         { 
-            institution: 'American International University-Bangladesh',
-            degree: 'Bachelor of Science',
-            from: '2015',
-            to: '2019'
+            institution: 'University of Engineering and Technology Peshawar, Pakistan',
+            degree: 'BS Computer Science',
+            from: '2020',
+            to: '2024'
         },
         { 
-            institution: 'Cantonment College, Jessore',
+            institution: 'Saleem Nawaz Fazaia College Masroor Karachi, Pakistan',
             degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
+            from: '2018',
+            to: '2020',
         },
         { 
-            institution: 'Chowgacha Shahadat Pilot High School',
+            institution: 'Saleem Nawaz Fazaia College Masroor Karachi, Pakistan',
             degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            from: '2013',
+            to: '2018'
         }
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
-        source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
+        source: 'medium', // medium | dev.to
+        username: 'hamasurrehman',
         limit: 2 // How many posts to display. Max is 10.
     },
     googleAnalytics: {
         // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-        id: 'G-WLLB5E14M6' // Please remove this and use your own tag id
+        id: 'G-RCKJR7SFY6' // Please remove this and use your own tag id
     },
     themeConfig: {
-        default: 'light',
+        default: 'dark',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
