@@ -29,7 +29,7 @@ module.exports = {
         'Python',
         'Jquery',
         'MySQL',
-        'HTML 5'
+        'HTML 5',
         'Git',
         'CSS',
         'Bootstrap',
