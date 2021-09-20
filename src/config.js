@@ -2,7 +2,7 @@
 module.exports = {
     github: {
         username: 'Hamas-ur-Rehman', // Your GitHub org/user name. (Required)
-        sortBy: 'stars', // stars | updated
+        sortBy: 'updated', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
             forks: false, // Forked projects will not be displayed if set to true.
@@ -85,7 +85,7 @@ module.exports = {
         id: 'G-RCKJR7SFY6' // Please remove this and use your own tag id
     },
     themeConfig: {
-        default: 'dark',
+        default: 'light',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
